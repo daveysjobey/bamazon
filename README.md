@@ -7,8 +7,7 @@ This is a command line interface tool that imitates an online store. It talks to
 
 <br>
 
-There is a video link to a walkthrough.
-![](video walkthrough.mov)
-
+Here is a video link to a walkthrough.
+[![Video Walkthrough](http://img.youtube.com/vi/GgFvMWhHouY/0.jpg)](http://www.youtube.com/watch?v=GgFvMWhHouY "Video Walkthrough")
                                         
     
