@@ -5,7 +5,10 @@ This is a command line interface tool that imitates an online store. It talks to
 
 ![](CLI.gif)
 
+<br>
 
+There is a video link to a walkthrough.
+![](
 
                                         
     
