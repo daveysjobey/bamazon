@@ -8,6 +8,7 @@ This is a command line interface tool that imitates an online store. It talks to
 <br>
 
 Here is a video link to a walkthrough.
+<br>
 [![Video Walkthrough](http://img.youtube.com/vi/GgFvMWhHouY/0.jpg)](http://www.youtube.com/watch?v=GgFvMWhHouY "Video Walkthrough")
                                         
     
